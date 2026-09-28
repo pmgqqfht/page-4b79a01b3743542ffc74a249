@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "84ae5153dab70da95be8a46d",
+  "owner": "pmgqqfht",
+  "repo": "page-4b79a01b3743542ffc74a249",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b79a01b3743542ffc74a249",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "852ee50c9de947546a169a723aaf8106aafe4fcfa57c508357e023d01974d883",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云提供稳定VPN加速服务，帮助您解锁网络内容，安全高效的客户端下载和使用体验尽在官网。",
+          "AI_DESCRIPTION": "龙猫云提供稳定VPN加速服务，帮助您解锁网络内容，安全高效的客户端下载和使用体验尽在官网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --blue: #0A2540;\n            --cyan: #00D4FF;\n            --light: #E0F0FF;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--blue);\n            color: var(--light);\n            margin: 0;\n            padding: 0;\n            line-height: 1.6;\n        }\n        header {\n            background: rgba(10, 37, 64, 0.95);\n            padding: 1rem;\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: var(--cyan);\n        }\n        .logo a {\n            color: var(--cyan);\n            text-decoration: none;\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: var(--light);\n            text-decoration: none;\n            font-size: 1rem;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1rem;\n        }\n        h1 {\n            color: var(--cyan);\n            font-size: 2.5rem;\n            margin-bottom: 1rem;\n        }\n        h2 {\n            color: var(--cyan);\n            font-size: 2rem;\n            margin: 2rem 0 1rem;\n        }\n        .intro {\n            background: rgba(255,255,255,0.05);\n            padding: 2rem;\n            border-radius: 8px;\n            margin-bottom: 2rem;\n        }\n        .usage {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n            margin: 2rem 0;\n        }\n        .card {\n            background: #112d4e;\n            padding: 1.5rem;\n            border-radius: 8px;\n            border: 1px solid var(--cyan);\n        }\n        .card h3 {\n            color: var(--cyan);\n            margin-top: 0;\n        }\n        .comparison {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 2rem;\n            margin: 2rem 0;\n        }\n        .column {\n            background: rgba(255,255,255,0.05);\n            padding: 1.5rem;\n            border-radius: 8px;\n        }\n        .plans-section {\n            margin: 3rem 0;\n        }\n        .faq {\n            margin: 2rem 0;\n        }\n        details {\n            background: #112d4e;\n            margin: 1rem 0;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1rem;\n            font-weight: bold;\n            cursor: pointer;\n            color: var(--cyan);\n        }\n        details p {\n            padding: 1rem;\n            border-top: 1px solid #00D4FF;\n        }\n        .btn {\n            background: var(--cyan);\n            color: var(--blue);\n            padding: 0.75rem 1.5rem;\n            border-radius: 4px;\n            text-decoration: none;\n            display: inline-block;\n            margin-top: 1rem;\n        }\n        footer {\n            background: #0A2540;\n            padding: 2rem;\n            text-align: center;\n            color: #aaa;\n        }\n        @media (max-width: 768px) {\n            .nav-links {\n                display: none;\n            }\n            h1 {\n                font-size: 2rem;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">\n                <a href=\"#home\">龙猫云</a>\n            </div>\n            <div class=\"nav-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <h1>龙猫云 VPN加速器</h1>\n        <p class=\"intro\">龙猫云是一款专注于网络加速与VPN服务的品牌，提供安全稳定的加速器解决方案，帮助用户畅享无障碍网络生活。</p>\n        <section id=\"usage\">\n            <h2>使用场景</h2>\n            <div class=\"usage\">\n                <div class=\"card\">\n                    <h3>流媒体解锁</h3>\n                    <p>轻松解锁Netflix、YouTube等全球热门平台内容。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>游戏加速</h3>\n                    <p>IPLC专线优化游戏延迟，适合在线竞技。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>多设备支持</h3>\n                    <p>同时连接多台设备，家庭或办公室共享网络。</p>\n                </div>\n            </div>\n        </section>\n        <section class=\"comparison\">\n            <div class=\"column\">\n                <h3>为什么选择龙猫云？</h3>\n                <p>龙猫云凭借稳定线路和多样节点，满足不同用户需求。从基础到团队版，多种套餐供您选择。</p>\n                <a href=\"#plans\" class=\"btn\">查看套餐详情</a>\n            </div>\n            <div class=\"column\">\n                <h3>立即开始</h3>\n                <p>访问官网下载客户端，注册后即可体验加速服务。</p>\n                <a href=\"#download\" class=\"btn\">客户端下载</a>\n            </div>\n        </section>\n        <section class=\"plans-section\">\n            {{PLANS_HTML}}\n        </section>\n        <section>\n            <h2>操作指南</h2>\n            <ol>\n                <li>访问官网，点击客户端下载按钮。</li>\n                <li>下载安装后，使用账号登录。</li>\n                <li>选择节点连接，享受加速体验。</li>\n                <li>如需帮助，联系客服。</li>\n            </ol>\n            <a href=\"#faq\" class=\"btn\">查看常见问题</a>\n        </section>\n        <section class=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是龙猫云？</summary>\n                <p>龙猫云是一款提供VPN加速和网络服务的品牌，旨在帮助用户实现安全高效的网络连接。</p>\n            </details>\n            <details>\n                <summary>如何选择适合的套餐？</summary>\n                <p>根据您的流量需求和设备数量，选择基础版、旗舰版或团队版即可。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>支持多台设备同时在线，具体配置请参考各套餐说明。</p>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <p>通过选择对应线路节点，即可解锁基础或全节点原生流媒体。</p>\n            </details>\n            <details>\n                <summary>游戏加速效果如何？</summary>\n                <p>旗舰版和团队版提供IPLC专线优化，显著提升游戏稳定性。</p>\n            </details>\n        </section>\n        <section>\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 龙猫云 所有权利保留 | 官网客户端下载</p>\n    </footer>\n\n",
+          "hash": "dcaa69203a076b9bb9d6e1944b5bd3de8baabd525a50ea462f9de0b0c2c83175",
+          "seo": {
+            "title": "龙猫云 - VPN加速器 客户端下载 官网",
+            "keywords": "龙猫云, VPN加速器, 客户端下载, 官网, 机场, VPN",
+            "description": "龙猫云提供稳定VPN加速服务，帮助您解锁网络内容，安全高效的客户端下载和使用体验尽在官网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mdfkfsv.cn",
+    "host": "a.mdfkfsv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "mdfkfsv.cn",
+      "url": "https://mdfkfsv.cn/",
+      "label": "GOOGO",
+      "apex": "mdfkfsv.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-82ed93568d3b7d7a3aa36c19"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d5f44caa6ce54704b47043a089c04db105d243b61a6a138c88508269967f340e",
+    "sitemap.xml": "8c0194feb7a9d435bad04e3360664abf38d21e5d0805d12e223a78c99c9fe311",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4f0199b208d8fcba911998c0c603f6ee87a297db81ed68f72e2d52ac01abccda",
+    "robots.txt": "56a87584d760dc48dec910da195c1b507ef8226aff840b9dc3f90a0c5e8f584f",
+    "c16cb30f70eda125b84fa7c22453819e.txt": "9cda3480fa016b6f456724545a16448a3d1c69239f8590b9cab2f34e2a8367e2"
+  },
+  "revision": "8bcf8fc931a55ef34e309852cd54dc0c1a587ac0f50549c66e283bb65e16a6f6"
+}
